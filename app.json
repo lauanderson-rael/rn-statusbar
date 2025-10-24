@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-sidebar",
+    "name": "app-statusbar",
     "slug": "app-sidebar",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appsidebar",
+    "scheme": "appstatusbar",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

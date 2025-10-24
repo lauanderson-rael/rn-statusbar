@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como atividade da faculdade com o objetivo de **co
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/lauanderson-rael/rn-shopping-list
+git clone https://github.com/lauanderson-rael/rn-statusbar
 cd rn-shopping-list
 ```
 

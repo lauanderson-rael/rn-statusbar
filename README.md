@@ -13,9 +13,7 @@ Este projeto foi desenvolvido como atividade da faculdade com o objetivo de **co
 ---
 
 ## Telas do Aplicativo
-<img src="screenshots/img2.png" alt="Tela Home" width="300">
-<img src="screenshots/img1.png" alt="Tela Home" width="300">   
-
+<img src="screenshots/img2.png" alt="Tela Home" width="300">   
 
 ## Como executar 
 

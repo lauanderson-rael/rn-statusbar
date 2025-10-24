@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como atividade da faculdade com o objetivo de **co
 
 ```bash
 git clone https://github.com/lauanderson-rael/rn-statusbar
-cd rn-shopping-list
+cd rn-statusbar
 ```
 
 2. **Instale as dependências:**
